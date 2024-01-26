@@ -1,1 +1,2 @@
 cats_processed/** filter=lfs diff=lfs merge=lfs -text
+cats_processed.zip filter=lfs diff=lfs merge=lfs -text
