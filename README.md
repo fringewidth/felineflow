@@ -1,2 +1,2 @@
 # felineflow
-A diffusion model trained to generate 256x256 images of cats.
+A diffusion model trained to generate 128x128 images of cats.
